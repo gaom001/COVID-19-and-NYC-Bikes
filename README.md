@@ -1,4 +1,4 @@
-# Tableau-Challenge
+# COVID-19 and NYC Bikes
 
 The Purpose of this project is to analyze the COVID19 impact on New York City Transportation: Bikies
 
